@@ -1,0 +1,18 @@
+html {
+  background-color: rgb(39, 39, 39);
+}
+.isEmbedded {
+  background-color: rgb(39, 39, 39);
+}
+
+* {
+  font-family: 'Poppins';font-size: 22px;
+}
+
+.background {
+  width: 100%;
+  height: 100vh;
+  background-color: rgb(39, 39, 39);
+}
+
+
